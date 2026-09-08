@@ -6,9 +6,6 @@ https://oscarbaruffa.com/messy/
 Dataset:
 https://docs.google.com/spreadsheets/d/1IPS5dBSGtwYVbjsfbaMCYIWnOuRmJcbequohNxCyGVw/edit?resourcekey=&gid=1625408792#gid=1625408792
 
-1 Page Doc Reference ChatGPT:
-https://chatgpt.com/c/6a95ac32-47b0-83ec-bb9e-31a9744e3501
-
 ## Project Overview
 
 This project will analyze a messy salary survey dataset containing information about salaries, job roles, industries, locations, education, and work experience. The goal is to clean the raw data and transform it into a reliable dataset that can be used for meaningful analysis and visualization.
@@ -25,12 +22,11 @@ Create clear visualizations to communicate the findings.
 ## Business Questions
 
 The analysis will answer questions such as:
-
-- How does salary vary with professional experience?
-- Which industries or job roles have higher typical salaries?
-- How does salary differ across locations?
-- What relationship exists between experience and salary?
-- What data-quality issues could affect the analysis?
+    1. Does more experience mean more money, and by how much per year?
+    2. Is a Master's/PhD worth it in dollar terms?
+    3. Which industries pay the best?
+    4. Does location change what you get paid?
+    5. Which job titles pay the most, and how consistent is pay within a title?
 
 ## Approach
 
@@ -41,6 +37,3 @@ After cleaning, exploratory data analysis will be performed using charts such as
 ## Expected Outcome
 
 The final project will produce a cleaned dataset, an analysis notebook, and visualizations that communicate the key findings. It will demonstrate practical skills in Python, data cleaning, exploratory data analysis, and data visualization, while showing how messy real-world data can be transformed into useful insights.
-
-Dataset Source: Oscar Baruffa — A real-world, messy dataset to practice on
-https://oscarbaruffa.com/messy/
